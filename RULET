@@ -1,0 +1,6 @@
+<!-- La Rueda del Destino Creativo - HTML interactivo -->
+<!-- Copia este código en un HTML para tener la versión completa -->
+<div id="wheelContainer" style="width:500px;height:500px;margin:0 auto;position:relative;">
+  <canvas id="wheel" width="500" height="500"></canvas>
+  <button id="spin" style="position:absolute;top:50%;left:50%;transform:translate(-50%,-50%);z-index:10;padding:10px 20px;background:#ff5722;color:white;border:none;border-radius:5px;font-size:18px;cursor:pointer;">¡GIRAR!</button>
+</div>
